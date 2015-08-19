@@ -7,6 +7,6 @@
 
 因此我想写这么一篇文章，写的不好还望见谅，权当我自己的笔记吧。另外如果有错误欢迎提出。
 
-|
+..
 
 Github地址：https://github.com/K-Guan/Git-Command-Reference

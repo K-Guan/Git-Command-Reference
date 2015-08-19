@@ -9,3 +9,4 @@
    :glob:
    
    ../base/baseic
+   ../base/senior
