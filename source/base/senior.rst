@@ -22,6 +22,9 @@
 ``git blame <file>``
     查看文件每一行的编辑者与编辑时间
 
+``git cherry <branch>``
+    查看分支<branch>与当前分支的区别
+
 ``git difftool <file1> <file2>``
     使用外部diff程序(如vimdiff)来查看代替diff
 
