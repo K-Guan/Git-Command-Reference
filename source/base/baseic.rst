@@ -20,9 +20,15 @@
 .. note::
 
     如果使用mv而不是git mv的话，需要手动git rm之前的文件并git add新文件。
+    
 
 ``git commit``
     将所有未提交的修改提交到当前分支
+
+.. note::
+
+    上面的 *#index* 就是意味着只会更改暂存区的内容，只有当commit之后才会生效。
+
 
 |
 
